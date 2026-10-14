@@ -39,6 +39,4 @@ Als de website online wordt geplaatst, kan iedereen met de juiste link de websit
 
 ## 6. Wie heeft de website gemaakt?
 
-Mijn naam is **Sam Vermeulen** en ik ben een student die geïnteresseerd is in informatica en webontwikkeling. Ik heb deze website gemaakt als oefenproject om meer te leren over HTML, CSS, JavaScript en Bootstrap.
-
-Tijdens het maken van de website heb ik geleerd hoe ik een webpagina kan opbouwen, hoe ik de vormgeving kan aanpassen en hoe ik verschillende technologieën kan combineren. In de toekomst wil ik mijn vaardigheden verder ontwikkelen en nog meer websites maken.
+Ghulam
