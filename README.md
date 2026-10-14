@@ -1,134 +1,44 @@
-# Leerstofoverzicht
+# Voorstelling van mijn website
 
-Een oplijsting van wat te kennen voor het examen van het eerste semester Datacommunicatie.
+## 1. Wat is deze website?
 
-## Inleiding
+Mijn website is een informatieve website over technologie en computers. De website bevat informatie over verschillende soorten technologie, computers en het internet. De inhoud is eenvoudig opgebouwd, zodat bezoekers gemakkelijk de informatie kunnen vinden die ze zoeken.
 
-- Doelen Computernetwerken
-- Het Communicatiemodel
-- De verschillende richting van communicatie met voorbeelden
-- De verschillende types van casting met voorbeelden
+## 2. Waarvoor dient de website?
 
-## Telecommunicatienetwerken
+Ik heb deze website gemaakt om mensen op een eenvoudige manier kennis te laten maken met technologie. Het doel is om informatie op een overzichtelijke en aantrekkelijke manier weer te geven. Daarnaast wilde ik mijn vaardigheden in het bouwen van websites verbeteren en leren hoe ik een eigen project kan maken.
 
-- Indeling op 4 manieren
-- Van analoog naar binair
-  - Moduleren
-  - Demoduleren
-  - Modem
-- Gegevensoverdracht
-  - Parallel
-  - Serieel
-- Bandbreedte
+## 3. Welke technologieën heb ik gebruikt?
 
-## Netwerktopologieën
+Voor het bouwen van mijn website heb ik verschillende technologieën en tools gebruikt:
 
-- soorten netwerken
-  - Maasnetwerk
-  - Ringnetwerk
-  - Busnetwerk
-  - Sternetwerk
-  - Boomtopologie
-- OSI-referentiemodel
-  - Alle lagen en hun functie kunnen onderscheiden aan de hand van een oefening
+- **HTML:** om de structuur en inhoud van de website te maken.
+- **CSS:** om de website vorm te geven, zoals de kleuren, lettertypes en lay-out.
+- **JavaScript:** om interactieve functies toe te voegen.
+- **Bootstrap:** om de website een moderne uitstraling te geven en de lay-out aan te passen aan verschillende schermformaten.
+- **Visual Studio Code:** om de code te schrijven en aan te passen.
+- **Git Bash:** om Git-commando's uit te voeren en wijzigingen in de code te beheren.
+- **Git en GitHub:** om de code bij te houden en eventueel online te bewaren.
 
-## Netwerkprotocollen
+## 4. Welke functies heeft de website?
 
-- TCP/IP-model
-- IPv4 & IPv6
-- Subnetmasker
-- Subnetoefeningen
-- MAC-adres
-- ARP-request
-  - statische vs dynamische entries
-- UDP
+De website bevat verschillende onderdelen en functies:
 
-## Toepassingsprotocollen
+- Een navigatiebalk om tussen de verschillende pagina's te gaan.
+- Een startpagina met een korte introductie.
+- Informatieve secties met tekst en afbeeldingen.
+- Knoppen en links om meer informatie te bekijken.
+- Een responsieve lay-out dankzij Bootstrap, zodat de website op computers, tablets en smartphones werkt.
+- Een eenvoudige en overzichtelijke vormgeving met CSS.
 
-- DHCP
-- DNS
-- HTTP
-- SMTP
-- FTP
+## 5. Hoe kan iemand de website bekijken?
 
-## Thuisnetwerken
+De website kan lokaal op een computer worden bekeken door het HTML-bestand te openen in een webbrowser, zoals Google Chrome of Microsoft Edge.
 
-- Netwerkkaart
-- Coaxiale kabels
-- Crosstalk
-- Twisted pair kabels
-- Glasvezelkabel
-  - single mode
-  - multimode
-- FTTC
-- FTTH
-- PLC
-- WiFi
-- Mesh netwerk
-- Alternatieve draadloze technieken
+Als de website online wordt geplaatst, kan iedereen met de juiste link de website bezoeken. Hiervoor kan bijvoorbeeld GitHub Pages worden gebruikt. De website is in dit voorbeeld nog niet online geplaatst.
 
-## Netwerkverdeeldozen
+## 6. Wie heeft de website gemaakt?
 
-- Repeater
-- Hub
-- Switch
-- Flooding
-- SwitchStack
-  - Store & Forwarding
-  - Cut Through
-  - Fragment Free
-- Bridge
-- Router
-- WNAP
-- Beamforming
-- Repeater
+Mijn naam is **Sam Vermeulen** en ik ben een student die geïnteresseerd is in informatica en webontwikkeling. Ik heb deze website gemaakt als oefenproject om meer te leren over HTML, CSS, JavaScript en Bootstrap.
 
-## Servers
-
-- Client/server verwerking
-  - Gedistribueerd vs gecentraliseerd proces
-  - Dedicated vs Non-Dedicated server
-  - back-end & front-end
-  - \*-tier architectuur
-  - Datadistributie vs datacollectie
-- Serverfarm
-- Datawarehouse
-- Batch
-- Hardware
-  - Betrouwbaarheid
-  - Processor
-  - Soorten casing
-  - Blade system
-  - Serverrack
-  - Server logs
-- Domein
-- Permissions
-- Soorten Servers
-  - File Server
-  - Back-up Server
-  - Mailserver
-  - Printserver
-  - Application Server
-  - Web Application Server
-  - Thin Client
-  - Webserver
-  - Netwerkbesturingssystemen
-
-## Het Internet
-
-- IP-Routering
-  - Time-To-Live
-  - Hot Potato
-  - Static Routing
-  - Dynamic Routing
-- Routing table
-- Distributed Adaptive Routing
-- Centralized Adaptive Routing
-- Ontleden van een URL
-- Cloud Computing
-  - Private
-  - Community
-  - Public
-- SaaS
-- PaaS
-- IaaS
+Tijdens het maken van de website heb ik geleerd hoe ik een webpagina kan opbouwen, hoe ik de vormgeving kan aanpassen en hoe ik verschillende technologieën kan combineren. In de toekomst wil ik mijn vaardigheden verder ontwikkelen en nog meer websites maken.
