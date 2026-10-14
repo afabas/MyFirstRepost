@@ -1,0 +1,17 @@
+let isbn = "";
+
+function antwoordVanBob(vraag) {
+    if (vraag === "") {
+        return "Prima. Doe maar!";
+    } else if (vraag.endsWith("?") && vraag === vraag.toUpperCase()) {
+        return "Rustig maar, ik weet wat ik doe!";
+    } else if (vraag === vraag.toUpperCase()) {
+        return "Wauw, kalm aan!";
+    } else if (vraag.endsWith("?")) {
+        return "Tuurlijk.";
+    } else {
+        return "Maakt niet uit.";
+    }
+}
+
+console.log(antwoordVanBob(isbn));
